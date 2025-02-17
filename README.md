@@ -1,4 +1,4 @@
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/cb4672f9-60bd-4faa-b3eb-3a6c2552cf3e" /># **Universidad Nacional de Colombia**
+# **Universidad Nacional de Colombia**
 ## **Programación de Computadores (Código 2015734)**
 ### **Repositorio elaborado por:** Santiago Romero Mejía
 ___
